@@ -1,0 +1,14 @@
+Operador '&', retorna endereço de um objeto em memória;
+
+
+Ponteiro
+
+Armazenam endereços de memória !! 
+
+Aceita a constante NULL
+
+Ponteiros não são inicializados até receberem um valor.
+
+Boa prática inicializar com null.. 
+
+PONTEIRO sempre ocupa 4BYTES...
